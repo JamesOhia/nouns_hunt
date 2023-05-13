@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "118525661433",
+    "firebase_url": "https://nouns-d1b26-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "nouns-d1b26",
+    "storage_bucket": "nouns-d1b26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118525661433:android:315277c7b657961e0d9228",
+        "android_client_info": {
+          "package_name": "com.DashStudios.Nouns"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118525661433-g1dah1ephuc3lodujfsqoqa6ajstseag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBowA64n_G5t9HNk7DqgPKLl1hHgHUdybg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118525661433-g1dah1ephuc3lodujfsqoqa6ajstseag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "118525661433-ced729s3q289vaitkcs7r8s59lp08htt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Dash-Studios.Nouns"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118525661433:android:c2ecb922531ef7b50d9228",
+        "android_client_info": {
+          "package_name": "com.DashStudios.NounsFlutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118525661433-450v3ah7krgt98a7072tcrq15kgqeocq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DashStudios.NounsFlutter",
+            "certificate_hash": "afdbf246737cf1a72356ccf7090318ee85c65bac"
+          }
+        },
+        {
+          "client_id": "118525661433-4mcrtdvdeii425a4smue8iovtum0h3ae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DashStudios.NounsFlutter",
+            "certificate_hash": "0af07b03f657140774cb51c49b39b02dcc73ba98"
+          }
+        },
+        {
+          "client_id": "118525661433-65443j01jgdbudpf0e0qd2iq790gi8fr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DashStudios.NounsFlutter",
+            "certificate_hash": "b8e0a06edb51e70a93236807824f3f4b777f9ae6"
+          }
+        },
+        {
+          "client_id": "118525661433-bvfiloh37klm6sckml9lbimtrttga7ei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DashStudios.NounsFlutter",
+            "certificate_hash": "a0c2de5c721c14b861b4dddef910339afb8a6666"
+          }
+        },
+        {
+          "client_id": "118525661433-g1dah1ephuc3lodujfsqoqa6ajstseag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBowA64n_G5t9HNk7DqgPKLl1hHgHUdybg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118525661433-g1dah1ephuc3lodujfsqoqa6ajstseag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "118525661433-ced729s3q289vaitkcs7r8s59lp08htt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Dash-Studios.Nouns"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

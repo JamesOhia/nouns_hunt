@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>118525661433-n1r3apctp5vmpr2n1p9m1u9vino81q00.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.118525661433-n1r3apctp5vmpr2n1p9m1u9vino81q00</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>118525661433-450v3ah7krgt98a7072tcrq15kgqeocq.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBdZgTy5OA_lXss8IhtRJN1Ve-5MjwsqB0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>118525661433</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Dash-Studios.NounsFlutter</string>
+	<key>PROJECT_ID</key>
+	<string>nouns-d1b26</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nouns-d1b26.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:118525661433:ios:0bb2b4c3004aca460d9228</string>
+	<key>DATABASE_URL</key>
+	<string>https://nouns-d1b26-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

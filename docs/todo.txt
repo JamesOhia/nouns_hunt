@@ -1,0 +1,9 @@
+1. Add alphabet check to check words
+2. Chnage backgrounnd with alphabet
+3. Move input field to center and style it with btn next button(with flashing for wrong/right)
+4. Style category
+5. Wordcombo popup and aniamtion
+6. Add timer with begin sequence and all
+7. Add lifeliens, autfill, timefreeze, timemeachine and with cooldowns(timeouts)
+8. Add score 
+

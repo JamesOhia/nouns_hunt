@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../nakama-3.13.1-linux-amd64"
+    },
+    {
+      "path": "../ nouns_json_db"
+    },
+    {
+      "path": "../../../LOCAL_DISK/Projects/MarkMe/cloud-functions-chat-app"
+    }
+  ],
+  "extensions": {
+    "recommendations": []
+  }
+}

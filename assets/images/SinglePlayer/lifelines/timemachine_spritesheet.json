@@ -1,0 +1,1295 @@
+{
+	"frames": {
+		"Time Machine_00000.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00001.png": {
+			"frame": {
+				"x": 196,
+				"y": 1,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00002.png": {
+			"frame": {
+				"x": 391,
+				"y": 1,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00003.png": {
+			"frame": {
+				"x": 586,
+				"y": 1,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00004.png": {
+			"frame": {
+				"x": 781,
+				"y": 1,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00005.png": {
+			"frame": {
+				"x": 976,
+				"y": 1,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00006.png": {
+			"frame": {
+				"x": 1171,
+				"y": 1,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00007.png": {
+			"frame": {
+				"x": 1366,
+				"y": 1,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00008.png": {
+			"frame": {
+				"x": 1,
+				"y": 203,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00009.png": {
+			"frame": {
+				"x": 196,
+				"y": 203,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00010.png": {
+			"frame": {
+				"x": 391,
+				"y": 203,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00011.png": {
+			"frame": {
+				"x": 586,
+				"y": 203,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00012.png": {
+			"frame": {
+				"x": 781,
+				"y": 203,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00013.png": {
+			"frame": {
+				"x": 976,
+				"y": 203,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00014.png": {
+			"frame": {
+				"x": 1171,
+				"y": 203,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00015.png": {
+			"frame": {
+				"x": 1366,
+				"y": 203,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00016.png": {
+			"frame": {
+				"x": 1,
+				"y": 405,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00017.png": {
+			"frame": {
+				"x": 196,
+				"y": 405,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00018.png": {
+			"frame": {
+				"x": 391,
+				"y": 405,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00019.png": {
+			"frame": {
+				"x": 586,
+				"y": 405,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00020.png": {
+			"frame": {
+				"x": 781,
+				"y": 405,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00021.png": {
+			"frame": {
+				"x": 976,
+				"y": 405,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00022.png": {
+			"frame": {
+				"x": 1171,
+				"y": 405,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00023.png": {
+			"frame": {
+				"x": 1366,
+				"y": 405,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00024.png": {
+			"frame": {
+				"x": 1,
+				"y": 607,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00025.png": {
+			"frame": {
+				"x": 196,
+				"y": 607,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00026.png": {
+			"frame": {
+				"x": 391,
+				"y": 607,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00027.png": {
+			"frame": {
+				"x": 586,
+				"y": 607,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00028.png": {
+			"frame": {
+				"x": 781,
+				"y": 607,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00029.png": {
+			"frame": {
+				"x": 976,
+				"y": 607,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00030.png": {
+			"frame": {
+				"x": 1171,
+				"y": 607,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00031.png": {
+			"frame": {
+				"x": 1366,
+				"y": 607,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00032.png": {
+			"frame": {
+				"x": 1,
+				"y": 809,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00033.png": {
+			"frame": {
+				"x": 196,
+				"y": 809,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00034.png": {
+			"frame": {
+				"x": 391,
+				"y": 809,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00035.png": {
+			"frame": {
+				"x": 586,
+				"y": 809,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00036.png": {
+			"frame": {
+				"x": 781,
+				"y": 809,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00037.png": {
+			"frame": {
+				"x": 976,
+				"y": 809,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00038.png": {
+			"frame": {
+				"x": 1171,
+				"y": 809,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00039.png": {
+			"frame": {
+				"x": 1366,
+				"y": 809,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00040.png": {
+			"frame": {
+				"x": 1,
+				"y": 1011,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00041.png": {
+			"frame": {
+				"x": 196,
+				"y": 1011,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00042.png": {
+			"frame": {
+				"x": 391,
+				"y": 1011,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00043.png": {
+			"frame": {
+				"x": 586,
+				"y": 1011,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00044.png": {
+			"frame": {
+				"x": 781,
+				"y": 1011,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00045.png": {
+			"frame": {
+				"x": 976,
+				"y": 1011,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00046.png": {
+			"frame": {
+				"x": 1171,
+				"y": 1011,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00047.png": {
+			"frame": {
+				"x": 1366,
+				"y": 1011,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00048.png": {
+			"frame": {
+				"x": 1,
+				"y": 1213,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00049.png": {
+			"frame": {
+				"x": 196,
+				"y": 1213,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00050.png": {
+			"frame": {
+				"x": 391,
+				"y": 1213,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00051.png": {
+			"frame": {
+				"x": 586,
+				"y": 1213,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00052.png": {
+			"frame": {
+				"x": 781,
+				"y": 1213,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00053.png": {
+			"frame": {
+				"x": 976,
+				"y": 1213,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00054.png": {
+			"frame": {
+				"x": 1171,
+				"y": 1213,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00055.png": {
+			"frame": {
+				"x": 1366,
+				"y": 1213,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00056.png": {
+			"frame": {
+				"x": 1561,
+				"y": 1,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00057.png": {
+			"frame": {
+				"x": 1561,
+				"y": 203,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00058.png": {
+			"frame": {
+				"x": 1561,
+				"y": 405,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00059.png": {
+			"frame": {
+				"x": 1561,
+				"y": 607,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00060.png": {
+			"frame": {
+				"x": 1561,
+				"y": 809,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00061.png": {
+			"frame": {
+				"x": 1561,
+				"y": 1011,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00062.png": {
+			"frame": {
+				"x": 1561,
+				"y": 1213,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		},
+		"Time Machine_00063.png": {
+			"frame": {
+				"x": 1,
+				"y": 1415,
+				"w": 193,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 193,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 193,
+				"h": 200
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 1755,
+			"h": 1616
+		},
+		"scale": "1"
+	}
+}

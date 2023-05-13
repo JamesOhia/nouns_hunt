@@ -1,0 +1,21 @@
+import 'package:flutter/material.dart';
+
+const primaryColor = Color.fromRGBO(29, 36, 50, 1);
+const whiteColor = Colors.white;
+final lightGreyTextColor = Colors.grey[100];
+final darkGreyTextColor = Colors.grey.shade700;
+const redColor = Colors.red;
+const lightredColor = Color.fromARGB(255, 252, 129, 120);
+const blueColor = Color.fromRGBO(27, 176, 246, 1);
+const lightBlueColor = Color.fromARGB(255, 151, 222, 255);
+const orangeColor = Color.fromRGBO(253, 151, 68, 1);
+const lightOrangeColor = Color.fromARGB(255, 253, 195, 148);
+const lightGreenColor = Color.fromRGBO(37, 221, 146, 1);
+const greenColor = Color.fromARGB(255, 20, 119, 79);
+const purpleColor = Color.fromARGB(255, 72, 7, 92);
+const lightPupleColor = Color.fromARGB(255, 129, 11, 165);
+const darkBlueColor = Color.fromRGBO(97, 113, 168, 1);
+const autofillBgColor = Color.fromARGB(255, 14, 92, 66);
+const timeMachineBgColor = Color.fromARGB(255, 161, 108, 109);
+const timeFreezeBgColor = Color.fromARGB(255, 53, 140, 177);
+const darkBlueColor2 = Color.fromARGB(255, 63, 81, 115);
